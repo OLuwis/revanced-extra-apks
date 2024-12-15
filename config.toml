@@ -1,4 +1,4 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = false # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -6,82 +6,121 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Music]
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[GooglePhotos]
-build-mode = "both"
-arch = "both"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Reddit-Extended]
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-
-[Twitch]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
-
-[Twitter]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
-dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-
-[TikTok]
-enabled = false
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
+[YT Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
+[TikTok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
+[Amazon Shopping]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+
+[Backdrops]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+
+[Bandcamp]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+
+[Duolingo]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+included-patches = "'Disable ads'"
+exclusive-patches = true
+
+[Facebook]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+
+[Google News]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+
+[Google Photos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+
+[Google Recorder]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+
+[Icon Pack Studio]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+
+[Meme Generator]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+
+[Mi Fitness]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
+
+[MyFitnessPal]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+
+[NFC Tools]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/wakdev/nfc-tools/"
+
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+
+[Pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+
+[RAR]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+
+[Sync for Lemmy]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
+
+[Solid Explorer]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+
+[Sound Connect by Sony]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+
+[SoundCloud]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 
 [Spotify]
-enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+[Spotify Lite]
+uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
+
+[Stocard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+
+[Strava]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
+
+[TickTick]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+
+[Trakt]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+
+[Tumblr]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+
+[Windy App]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
+
+[Yuka]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
