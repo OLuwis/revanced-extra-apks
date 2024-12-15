@@ -6,6 +6,10 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
+[AdobeLightroom]
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
@@ -58,9 +62,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
 
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-
-[AdobeLightroom]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
 [MemeGenerator]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
