@@ -12,7 +12,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
-[YT Music]
+[YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Reddit]
@@ -30,7 +30,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
-[Amazon Shopping]
+[AmazonShopping]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 
 [Backdrops]
@@ -47,25 +47,25 @@ exclusive-patches = true
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
-[Google News]
+[GoogleNews]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 
-[Google Photos]
+[GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
-[Google Recorder]
+[GoogleRecorder]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
 
-[Icon Pack Studio]
+[IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
-[Lightroom]
+[AdobeLightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
-[Meme Generator]
+[MemeGenerator]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 
-[Mi Fitness]
+[MiFitness]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
 [MyFitnessPal]
@@ -74,7 +74,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counte
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
 
-[NFC Tools]
+[NFCTools]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/wakdev/nfc-tools/"
 
 [Photomath]
@@ -86,13 +86,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 [RAR]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
 
-[Sync for Lemmy]
+[SyncForLemmy]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
 
-[Solid Explorer]
+[SolidExplorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
-[Sound Connect by Sony]
+[SoundConnectBySony]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
 
 [SoundCloud]
@@ -101,7 +101,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundclou
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
-[Spotify Lite]
+[SpotifyLite]
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Stocard]
@@ -119,7 +119,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 [Tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 
-[Windy App]
+[WindyApp]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [Yuka]
