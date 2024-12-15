@@ -10,11 +10,63 @@ parallel-jobs = 1
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
+[AmazonShopping]
+uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
+
+[Backdrops]
+uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+
+[Bandcamp]
+uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+
+[Duolingo]
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+included-patches = "'Disable ads'"
+exclusive-patches = true
+
+[Facebook]
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+
+[GoogleNews]
+uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+
+[GooglePhotos]
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+
+[GoogleRecorder]
+uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
+
 [Instagram]
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
+[IconPackStudio]
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[MemeGenerator]
+uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+
 [Messenger]
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
+[MiFitness]
+uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
+
+[MyFitnessPal]
+uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -33,44 +85,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-
-[AmazonShopping]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
-
-[Backdrops]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-
-[Bandcamp]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-
-[Duolingo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
-included-patches = "'Disable ads'"
-exclusive-patches = true
-
-[Facebook]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
-
-[GoogleNews]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
-
-[GooglePhotos]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-
-[GoogleRecorder]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
-
-[IconPackStudio]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-
-[MemeGenerator]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
-
-[MiFitness]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
-
-[MyFitnessPal]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
 
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
