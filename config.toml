@@ -107,8 +107,8 @@ uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
 
 [Reddit]
 enabled = true
-# apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [SolidExplorer]
 enabled = false
