@@ -66,34 +66,38 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 # uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [MemeGenerator]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [Messenger]
-enabled = true
+enabled = false
 arch = "arm-v7a"
 apkmirror-dpi = "360-480dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 # uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [MiFitness]
-enabled = false
-arch = "arm-v7a"
-version = "1.1.44"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
+enabled = true
+# arch = "arm-v7a"
+# version = "1.1.44"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
+uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
 
 [NetGuard]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+uptodown-dlurl = "https://netguard.en.uptodown.com/android"
 
 [Photomath]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 
 [Pixiv]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [RAR]
 enabled = false
