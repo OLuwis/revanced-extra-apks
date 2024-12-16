@@ -145,40 +145,43 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
 
 [TickTick]
-enabled = true
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
-uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
+enabled = false
+apkmirror-dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+# uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
 
 [TikTok]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Trakt]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 
 [Tumblr]
-enabled = true
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
-uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
+enabled = false
+apkmirror-dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+# uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 
 [Twitch]
-enabled = false
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+enabled = true
+# apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+enabled = true
+# apkmirror-dpi = "120-640dpi"
+# apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [WindyApp]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
+enabled = true
+# apkmirror-dpi = "120-640dpi"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
+uptodown-dlurl = "https://windy.en.uptodown.com/android"
 
 [YTMusic]
 enabled = false
