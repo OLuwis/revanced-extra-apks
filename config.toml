@@ -16,8 +16,7 @@ version = "28.16.0.100"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 
 [Backdrops]
-arch = "arm-v7a"
-uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
+apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [Bandcamp]
