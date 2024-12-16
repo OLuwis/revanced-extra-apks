@@ -78,6 +78,15 @@ arch = "arm-v7a"
 version = "1.1.44"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
+[NetGuard]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
+
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+
+[Pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
@@ -96,16 +105,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
-[NetGuard]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
-
-[Photomath]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
-
-[Pixiv]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
-
 [RAR]
+arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
 
 [SyncForLemmy]
