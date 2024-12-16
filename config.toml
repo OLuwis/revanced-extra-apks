@@ -25,7 +25,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/
 # uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
@@ -33,13 +33,15 @@ uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+# uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
 included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
-enabled = false
-arch = "arm-v7a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+enabled = true
+# arch = "arm-v7a"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [GoogleNews]
 enabled = false
@@ -49,12 +51,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-
-[GoogleRecorder]
-enabled = false
-version = "0.5.287614899"
-arch = "arm-v7a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
 
 [IconPackStudio]
 enabled = false
