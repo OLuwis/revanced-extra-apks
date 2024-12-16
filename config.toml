@@ -79,19 +79,32 @@ version = "1.1.44"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
 [NetGuard]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
 
 [Photomath]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 
 [Pixiv]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+
+[RAR]
+enabled = false
+arch = "arm-v7a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
+
+[Reddit]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
+[SolidExplorer]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
@@ -105,15 +118,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
-[RAR]
-arch = "arm-v7a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
-
 [SyncForLemmy]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
-
-[SolidExplorer]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
 [SoundConnectBySony]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
