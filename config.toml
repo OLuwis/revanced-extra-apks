@@ -7,37 +7,41 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [AdobeLightroom]
+enabled = false
 version = "8.2.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
 [AmazonShopping]
+enabled = false
 arch = "arm-v7a"
 version = "28.16.0.100"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 
 [Backdrops]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [Bandcamp]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 
 [Duolingo]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
+arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
 [GoogleNews]
-
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 
 [GooglePhotos]
-arch = "arm-v7a"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+version = "0.5.287614899"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
 [GoogleRecorder]
