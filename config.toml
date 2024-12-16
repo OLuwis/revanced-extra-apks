@@ -13,7 +13,7 @@ version = "8.2.3"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [AmazonShopping]
-enabled = true
+enabled = false
 version = "28.18.0.100"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
@@ -22,10 +22,12 @@ uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
 enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+# uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
+uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
 enabled = false
