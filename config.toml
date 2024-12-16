@@ -12,7 +12,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 
 [AmazonShopping]
 arch = "arm-v7a"
-uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
+version = "28.16.0.100"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
 
 [Backdrops]
