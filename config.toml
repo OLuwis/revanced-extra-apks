@@ -47,6 +47,7 @@ arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
 [GoogleRecorder]
+enabled = false
 version = "0.5.287614899"
 arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
