@@ -20,8 +20,6 @@ apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 
 [Bandcamp]
-arch = "arm-v7a"
-uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 
 [Duolingo]
@@ -31,13 +29,10 @@ included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
-arch = "arm-v7a"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
 [GoogleNews]
-arch = "arm-v7a"
-uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
+
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 
 [GooglePhotos]
