@@ -1,9 +1,9 @@
 NetGuard: 2.329  
 Photomath: 8.37.0  
 Pixiv: 6.131.0  
+RAR: 7.01.build123  
 Reddit: 2024.17.0  
 SolidExplorer: 2.8.56  
-SoundCloud: 2024.12.10-release  
 Spotify: 9.0.0.487  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
