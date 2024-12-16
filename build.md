@@ -1,10 +1,9 @@
-NetGuard: 2.329  
-Photomath: 8.37.0  
-Pixiv: 6.131.0  
-RAR: 7.01.build123  
-Reddit: 2024.17.0  
-SolidExplorer: 2.8.56  
+SoundCloud: 2024.12.10-release  
+SoundConnectBySony: 10.1.0  
 Spotify: 9.0.0.487  
+SyncForLemmy: v24.03.26-14:56  
+TikTok: 36.5.4  
+Trakt: 1.1.1  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
