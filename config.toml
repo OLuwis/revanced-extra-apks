@@ -34,17 +34,19 @@ included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
+enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
 [GoogleNews]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 
 [GooglePhotos]
-version = "0.5.287614899"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
 [GoogleRecorder]
+version = "0.5.287614899"
 arch = "arm-v7a"
 uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
