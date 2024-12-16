@@ -43,6 +43,7 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 
 [GooglePhotos]
+enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
@@ -53,14 +54,14 @@ arch = "arm-v7a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-recorder/"
 
 [IconPackStudio]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [Instagram]
+arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [MemeGenerator]
-arch = "arm-v7a"
-uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 
 [Messenger]
