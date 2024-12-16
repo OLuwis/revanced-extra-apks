@@ -58,15 +58,17 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [Instagram]
+enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [MemeGenerator]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 
 [Messenger]
 arch = "arm-v7a"
-uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+excluded-patches = "'Disable switching emoji to sticker'"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [MiFitness]
