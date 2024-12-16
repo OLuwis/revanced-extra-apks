@@ -143,23 +143,30 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 
 [Tumblr]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 
-[YTMusic]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
 [Twitch]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Twitter]
+apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-
 [WindyApp]
+apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
+[YTMusic]
+arch = "arm-v7a"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[YouTube]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+
 [Yuka]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
