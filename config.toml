@@ -167,31 +167,34 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 # uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 
 [Twitch]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 # uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
-enabled = true
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+enabled = false
+apkmirror-dpi = "120-640dpi"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+# uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [WindyApp]
-enabled = true
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
-uptodown-dlurl = "https://windy.en.uptodown.com/android"
+enabled = false
+apkmirror-dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
+# uptodown-dlurl = "https://windy.en.uptodown.com/android"
 
 [YTMusic]
-enabled = false
-arch = "arm-v7a"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+enabled = true
+# arch = "arm-v7a"
+# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube]
-enabled = false
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+enabled = true
+# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Yuka]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
+uptodown-dlurl = "https://yuka.en.uptodown.com/android"
