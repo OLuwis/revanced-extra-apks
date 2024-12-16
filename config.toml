@@ -88,7 +88,7 @@ uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [Reddit]
 enabled = true
-arch = "both"
+arch = "all"
 # apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
