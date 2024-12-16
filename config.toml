@@ -152,14 +152,17 @@ enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Twitter]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [WindyApp]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [YTMusic]
+enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
