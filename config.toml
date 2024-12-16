@@ -74,7 +74,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [MiFitness]
 arch = "arm-v7a"
-uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
+version = "1.1.44"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
 [MyFitnessPal]
