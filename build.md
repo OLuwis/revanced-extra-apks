@@ -9,18 +9,17 @@ Instagram: 360.0.0.52.192
 MemeGenerator: 4.6377  
 Messenger: 487.0.0.74.218  
 MiFitness: 3.26.0i  
+Music: 7.31.51  
 Photomath: 8.37.0  
 Pixiv: 6.131.0  
 Reddit: 2024.17.0  
-SolidExplorer: 2.8.56  
 SoundCloud: 2024.12.10-release  
 SpotifyLite: 1.9.0.56456  
-SyncForLemmy: v24.03.26-14:56  
-TickTick: 7.4.5.0  
 TikTok: 36.5.4  
 Trakt: 1.1.1  
+Tumblr: 37.5.0.110  
+Twitter: 10.71.1-release.0  
 YouTube: 19.46.42  
-Yuka: 4.29  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
