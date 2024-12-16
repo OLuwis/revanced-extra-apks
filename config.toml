@@ -73,14 +73,13 @@ apkmirror-dpi = "360-480dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [MiFitness]
+enabled = false
 arch = "arm-v7a"
 version = "1.1.44"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
-[MyFitnessPal]
-arch = "arm-v7a"
-uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/myfitnesspal-inc/calorie-counter-myfitnesspal/"
+[NFCTools]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/wakdev/nfc-tools/"
 
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -102,9 +101,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [NetGuard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
-
-[NFCTools]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/wakdev/nfc-tools/"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
