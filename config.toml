@@ -61,8 +61,8 @@ uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [Messenger]
 enabled = true
+version = "latest"
 # arch = "arm-v7a"
-excluded-patches = "'Disable switching emoji to sticker'"
 # apkmirror-dpi = "360-480dpi"
 # apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
