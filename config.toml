@@ -126,16 +126,16 @@ enabled = false
 uptodown-dlurl = "https://sony-headphones-connect.br.uptodown.com/android"
 
 [Spotify]
-enabled = true
+enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [SpotifyLite]
-enabled = true
+enabled = false
 version = "1.9.0.56456"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Stocard]
-enabled = true
+enabled = false
 # apkmirror-dpi = "120-640dpi"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
 uptodown-dlurl = "https://stocard.en.uptodown.com/android"
@@ -145,22 +145,26 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
 
 [TickTick]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+enabled = true
+# apkmirror-dpi = "120-640dpi"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
+uptodown-dlurl = "https://ticktick.en.uptodown.com/android"
 
 [TikTok]
-enabled = false
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+enabled = true
+# apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Trakt]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 
 [Tumblr]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+enabled = true
+# apkmirror-dpi = "120-640dpi"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 
 [Twitch]
 enabled = false
