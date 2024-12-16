@@ -100,13 +100,13 @@ enabled = false
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [RAR]
-enabled = true
+enabled = false
 # arch = "arm-v7a"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
 uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
 
 [Reddit]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 # uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
@@ -116,28 +116,29 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 # uptodown-dlurl = "https://solid-explorer.en.uptodown.com/android"
 
 [SoundCloud]
-enabled = true
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
-uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+# uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [SoundConnect]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
 uptodown-dlurl = "https://sony-headphones-connect.br.uptodown.com/android"
 
 [Spotify]
-enabled = false
+enabled = true
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [SpotifyLite]
-enabled = false
+enabled = true
 version = "1.9.0.56456"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Stocard]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+enabled = true
+# apkmirror-dpi = "120-640dpi"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
+uptodown-dlurl = "https://stocard.en.uptodown.com/android"
 
 [SyncForLemmy]
 enabled = false
