@@ -38,7 +38,7 @@ included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
-enabled = true
+enabled = false
 # arch = "arm-v7a"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
@@ -46,30 +46,37 @@ uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 [GoogleNews]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+# uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
 
 [GooglePhotos]
-enabled = false
-arch = "arm-v7a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+enabled = true
+# arch = "arm-v7a"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+enabled = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
 
 [Instagram]
 enabled = false
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+# uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [MemeGenerator]
-enabled = false
+enabled = true
+apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
+# uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [Messenger]
-enabled = false
-arch = "arm-v7a"
-apkmirror-dpi = "360-480dpi"
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+enabled = true
+# arch = "arm-v7a"
+# apkmirror-dpi = "360-480dpi"
+# apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [MiFitness]
 enabled = false
