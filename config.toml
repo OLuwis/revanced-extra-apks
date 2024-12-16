@@ -121,21 +121,33 @@ version = "1.9.0.56456"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Stocard]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
 
 [SyncForLemmy]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
 
 [TickTick]
+enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ticktick-limited/ticktick-to-do-list-with-reminder-day-planner/"
 
+[TikTok]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[Trakt]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
+
+[Tumblr]
+apkmirror-dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-[TikTok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
@@ -145,12 +157,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-
-[Trakt]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
-
-[Tumblr]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 
 [WindyApp]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
