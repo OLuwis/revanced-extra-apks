@@ -27,8 +27,7 @@ uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 
 [Duolingo]
-arch = "arm-v7a"
-uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 included-patches = "'Disable ads'"
 exclusive-patches = true
