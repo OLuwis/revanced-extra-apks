@@ -25,6 +25,7 @@ uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
 enabled = false
+version = "latest"
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 # uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
@@ -74,13 +75,9 @@ enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
 
-[NetGuard]
-enabled = false
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/marcel-bokhorst/netguard-no-root-firewall/"
-uptodown-dlurl = "https://netguard.en.uptodown.com/android"
-
 [Photomath]
 enabled = false
+version = "8.37.0"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 
@@ -88,12 +85,6 @@ uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
-
-[RAR]
-enabled = false
-# arch = "arm-v7a"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
-uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
 
 [Reddit]
 enabled = false
@@ -110,25 +101,10 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 # uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
-[SoundConnect]
-enabled = false
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
-uptodown-dlurl = "https://sony-headphones-connect.br.uptodown.com/android"
-
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
 [SpotifyLite]
 enabled = false
 version = "1.9.0.56456"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
-
-[Stocard]
-enabled = false
-# apkmirror-dpi = "120-640dpi"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
-uptodown-dlurl = "https://stocard.en.uptodown.com/android"
 
 [SyncForLemmy]
 enabled = false
@@ -154,15 +130,10 @@ uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 enabled = false
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
-# uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
-
-[Twitch]
-enabled = false
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 # uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
-enabled = false
+enabled = true
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 # uptodown-dlurl = "https://twitter.en.uptodown.com/android"
@@ -175,6 +146,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-w
 
 [YTMusic]
 enabled = false
+version = "latest"
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 # uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
