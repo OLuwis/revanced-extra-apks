@@ -68,7 +68,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/
 
 [Messenger]
 arch = "arm-v7a"
-excluded-patches = "'Disable switching emoji to sticker'"
+version = "latest"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [MiFitness]
