@@ -184,17 +184,17 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-w
 # uptodown-dlurl = "https://windy.en.uptodown.com/android"
 
 [YTMusic]
-enabled = true
-# arch = "arm-v7a"
-# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+enabled = false
+arch = "arm-v7a"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+# uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Yuka]
-enabled = true
+enabled = false
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
 uptodown-dlurl = "https://yuka.en.uptodown.com/android"
