@@ -78,9 +78,6 @@ arch = "arm-v7a"
 version = "1.1.44"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 
-[NFCTools]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/wakdev/nfc-tools/"
-
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
