@@ -7,9 +7,10 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [AdobeLightroom]
-enabled = false
+enabled = true
 version = "8.2.3"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [AmazonShopping]
 enabled = false
