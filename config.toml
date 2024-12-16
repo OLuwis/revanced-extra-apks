@@ -168,8 +168,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 
 [Twitch]
 enabled = true
-# apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+# uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
 enabled = true
