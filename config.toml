@@ -103,6 +103,22 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
+[SoundCloud]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+
+[SoundConnect]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
+
+[Spotify]
+enabled = false
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
+[SpotifyLite]
+version = "1.9.0.56456"
+uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
+
 [YTMusic]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
@@ -120,18 +136,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [SyncForLemmy]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
-
-[SoundConnectBySony]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/sony-corporation/sony-headphones-connect/"
-
-[SoundCloud]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
-
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-[SpotifyLite]
-uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Stocard]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/"
