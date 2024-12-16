@@ -68,7 +68,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/
 
 [Messenger]
 arch = "arm-v7a"
-version = "latest"
+apkmirror-dpi = "120-160dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [MiFitness]
