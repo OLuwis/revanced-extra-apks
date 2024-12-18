@@ -44,21 +44,11 @@ enabled = true
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
-[IconPackStudio]
-enabled = true
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
-
 [Instagram]
 enabled = true
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 #uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-
-[MemeGenerator]
-enabled = true
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
-uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [Messenger]
 enabled = true
@@ -67,13 +57,6 @@ version = "latest"
 #apkmirror-dpi = "360-480dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
-
-[MiFitness]
-enabled = true
-version = "1.1.44"
-#arch = "arm-v7a"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
-uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
 
 [Music]
 enabled = true
@@ -112,11 +95,6 @@ uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 enabled = true
 #apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-
-[Trakt]
-enabled = true
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
-uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 
 [Tumblr]
 enabled = true
