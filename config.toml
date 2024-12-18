@@ -68,8 +68,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 [Photomath]
 enabled = true
 version = "8.37.0"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
-uptodown-dlurl = "https://photomath.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+#uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 
 [Pixiv]
 enabled = true
