@@ -187,7 +187,7 @@ _req() {
 	local ip="$1" op="$2"
 	shift 2
 	if [ "$op" = - ]; then
-		wget -w 5 -nv -O "$op" "$@" "$ip"
+		wget -nv -O "$op" "$@" "$ip"
 	else
 		if [ -f "$op" ]; then return; fi
 		local dlp
@@ -196,7 +196,7 @@ _req() {
 			while [ -f "$dlp" ]; do sleep 1; done
 			return
 		fi
-		wget -w 5 -nv -O "$dlp" "$@" "$ip" || return 1
+		wget -nv -O "$dlp" "$@" "$ip" || return 1
 		mv -f "$dlp" "$op"
 	fi
 }
@@ -312,7 +312,7 @@ dl_apkmirror() {
 		if [ "$arch" = "arm-v7a" ]; then arch="armeabi-v7a"; fi
 		local resp node app_table dlurl=""
 		url="${url}/${url##*/}-${version//./-}-release/"
-		resp=$(req "$url" -) || return 1
+		resp=$(req "$url" "-w 10") || return 1
 		node=$($HTMLQ "div.table-row.headerFont:nth-last-child(1)" -r "span:nth-child(n+3)" <<<"$resp")
 		if [ "$node" ]; then
 			if ! dlurl=$(apk_mirror_search "$resp" "$dpi" "${arch}" "APK"); then
@@ -321,22 +321,22 @@ dl_apkmirror() {
 				else is_bundle=true; fi
 			fi
 			[ -z "$dlurl" ] && return 1
-			resp=$(req "$dlurl" -)
+			resp=$(req "$dlurl" "-w 10")
 		fi
 		url=$(echo "$resp" | $HTMLQ --base https://www.apkmirror.com --attribute href "a.btn") || return 1
-		url=$(req "$url" - | $HTMLQ --base https://www.apkmirror.com --attribute href "span > a[rel = nofollow]") || return 1
+		url=$(req "$url" "-w 10" | $HTMLQ --base https://www.apkmirror.com --attribute href "span > a[rel = nofollow]") || return 1
 	fi
 
 	if [ "$is_bundle" = true ]; then
-		req "$url" "${output}.apkm"
+		req "$url" "-w 10 ${output}.apkm"
 		merge_splits "${output}.apkm" "${output}"
 	else
-		req "$url" "${output}"
+		req "$url" "-w 10 ${output}"
 	fi
 }
 get_apkmirror_vers() {
 	local vers apkm_resp
-	apkm_resp=$(req "https://www.apkmirror.com/uploads/?appcategory=${__APKMIRROR_CAT__}" -)
+	apkm_resp=$(req "https://www.apkmirror.com/uploads/?appcategory=${__APKMIRROR_CAT__}" "-w 10")
 	vers=$(sed -n 's;.*Version:</span><span class="infoSlide-value">\(.*\) </span>.*;\1;p' <<<"$apkm_resp" | awk '{$1=$1}1')
 	if [ "$__AAV__" = false ]; then
 		local IFS=$'\n'
@@ -352,7 +352,7 @@ get_apkmirror_vers() {
 }
 get_apkmirror_pkg_name() { sed -n 's;.*id=\(.*\)" class="accent_color.*;\1;p' <<<"$__APKMIRROR_RESP__"; }
 get_apkmirror_resp() {
-	__APKMIRROR_RESP__=$(req "${1}" -)
+	__APKMIRROR_RESP__=$(req "${1}" "-w 10")
 	__APKMIRROR_CAT__="${1##*/}"
 }
 
