@@ -187,7 +187,7 @@ _req() {
 	local ip="$1" op="$2"
 	shift 2
 	if [ "$op" = - ]; then
-		wget -nv -O "$op" "$@" "$ip"
+		wget -w 5 -nv -O "$op" "$@" "$ip"
 	else
 		if [ -f "$op" ]; then return; fi
 		local dlp
@@ -196,7 +196,7 @@ _req() {
 			while [ -f "$dlp" ]; do sleep 1; done
 			return
 		fi
-		wget -nv -O "$dlp" "$@" "$ip" || return 1
+		wget -w 5 -nv -O "$dlp" "$@" "$ip" || return 1
 		mv -f "$dlp" "$op"
 	fi
 }
