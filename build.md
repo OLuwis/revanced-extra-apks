@@ -2,12 +2,12 @@ AdobeLightroom: 8.2.3
 Backdrops: 5.1.8  
 Bandcamp: 3.1.4  
 Duolingo: 6.10.4  
-Facebook: 493.0.0.72.158  
+Facebook: 494.0.0.55.73  
 GooglePhotos: 7.11.0.705590205  
 IconPackStudio: 2.2 build 016  
 Instagram: 361.0.0.46.88  
 MemeGenerator: 4.6377  
-Messenger: 487.0.0.74.218  
+Messenger: 488.0.0.56.106  
 MiFitness: 3.26.0i  
 Music: 7.31.51  
 Photomath: 8.37.0  
