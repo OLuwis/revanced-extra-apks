@@ -13,18 +13,18 @@ version = "8.2.3"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [Backdrops]
-enabled = false
+enabled = true
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 # uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
-enabled = false
+enabled = true
 version = "latest"
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
@@ -33,35 +33,35 @@ included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
-enabled = false
+enabled = true
 # arch = "arm-v7a"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [GooglePhotos]
-enabled = false
+enabled = true
 # arch = "arm-v7a"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [IconPackStudio]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
 
 [Instagram]
-enabled = false
+enabled = true
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 # uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [MemeGenerator]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/zombodroid/meme-generator-free/"
 uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [Messenger]
-enabled = false
+enabled = true
 version = "latest"
 # arch = "arm-v7a"
 # apkmirror-dpi = "360-480dpi"
@@ -69,68 +69,68 @@ version = "latest"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [MiFitness]
-enabled = false
+enabled = true
 # arch = "arm-v7a"
 # version = "1.1.44"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/beijing-xiaomi-mobile-software-co-ltd/mi-wear-%e5%b0%8f%e7%b1%b3%e7%a9%bf%e6%88%b4/"
 uptodown-dlurl = "https://xiaomi-wear.en.uptodown.com/android"
 
 [Music]
-enabled = false
+enabled = true
 version = "latest"
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 # uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Photomath]
-enabled = false
+enabled = true
 version = "8.37.0"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 
 [Pixiv]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [Reddit]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 # uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [SoundCloud]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 # uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [SpotifyLite]
-enabled = false
+enabled = true
 version = "1.9.0.56456"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [TikTok]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Trakt]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 uptodown-dlurl = "https://trakt.en.uptodown.com/android"
 
 [Tumblr]
-enabled = false
+enabled = true
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 # uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
-enabled = false
+enabled = true
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 # uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [YouTube]
-enabled = false
+enabled = true
 # apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
