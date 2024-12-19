@@ -45,7 +45,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Messenger]
 enabled = true
-version = "latest"
 #arch = "arm-v7a"
 #apkmirror-dpi = "360-480dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
