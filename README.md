@@ -1,3 +1,5 @@
+[[PT]](https://github.com/OLuwis/revanced-extra-apks/blob/main/README_PT.md)
+
 ### Introduction
 
 This repo aims to expand and add more apps from the main [template repo](https://github.com/j-hc/revanced-magisk-module).
