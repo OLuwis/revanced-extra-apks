@@ -1,50 +1,21 @@
-# ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+### Introduction
 
-Extensive ReVanced builder  
+This repo aims to expand and add more apps from the main [template repo](https://github.com/j-hc/revanced-magisk-module).
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+It runs based on a scheduled pipeline on Github Actions at 00:00 UTC everyday, and then upload its updated files.
 
-Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
+You can download its [latest release](https://github.com/OLuwis/revanced-extra-apks/releases/latest) from the "releases" page.
 
-<details><summary><big>Features</big></summary>
-<ul>
- <li>Support all present and future ReVanced and <a href="https://github.com/inotia00/revanced-patches">ReVanced Extended</a> apps</li>
- <li> Can build Magisk modules and non-root APKs</li>
- <li> Updated daily with the latest versions of apps and patches</li>
- <li> Optimize APKs and modules for size</li>
- <li> Modules</li>
-    <ul>
-     <li> recompile invalidated odex for faster usage</li>
-     <li> receive updates from Magisk app</li>
-     <li> do not break safetynet or trigger root detections</li>
-     <li> handle installation of the correct version of the stock app and all that</li>
-     <li> support Magisk and KernelSU</li>
-    </ul>
-</ul>
-Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is scheduled to build the modules and APKs everyday using GitHub Actions if there is a change in ReVanced patches. You may want to disable it.
-</details>
+Currently for higher accessibility and compatibility i've made a base release for ARMV7 based smartphone, but there are still plans for other architectures and other patches.
 
-## To include/exclude patches or patch other apps
+### Obtainium
 
- * Star the repo :eyes:
- * Use the repo as a [template](https://github.com/new?template_name=revanced-magisk-module&template_owner=j-hc)
- * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
- * Run the build [workflow](../../actions/workflows/build.yml)
- * Grab your modules and APKs from [releases](../../releases)
+!IMPORTANT: IF YOU ARE GOING TO USE OBTAINIUM FOR TRACKING THE RELEASES AND APKS, PLEASE ACTIVATE THE VERIFICATION FOR ONLY INSTALLED APPS, THIS WAY YOU DONT SUFFER FROM RATE LIMIT. 👍
 
-also see here [`CONFIG.md`](./CONFIG.md)
+1. Download Obtainium from their [Github](https://github.com/ImranR98/Obtainium) or [F-Droid](https://f-droid.org/pt_BR/packages/dev.imranr.obtainium.fdroid/).
 
-## Building Locally
-### On Termux
-```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
-```
+2. Download the export file from [here](https://github.com/OLuwis/revanced-extra-apks/blob/main/obtainium_armv7.json).
 
-### On Desktop
-```console
-$ git clone https://github.com/j-hc/revanced-magisk-module
-$ cd revanced-magisk-module
-$ ./build.sh
-```
+3. Open the app and then go to the import section, now click on import data and choose the import file (make sure its a JSON file).
+
+This way you can import everything on your Obtainium app.
