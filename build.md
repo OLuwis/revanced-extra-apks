@@ -1,21 +1,15 @@
 AdobeLightroom: 8.2.3  
 Backdrops: 5.1.8  
 Bandcamp: 3.1.4  
-Duolingo: 6.10.4  
-GooglePhotos: 7.11.0.705590205  
-IconPackStudio: 2.2 build 016  
+Duolingo: 6.11.4  
+Facebook: 494.0.0.55.73  
 Instagram: 361.0.0.46.88  
-MemeGenerator: 4.6377  
 Messenger: 488.0.0.56.106  
-MiFitness: 1.1.44  
 Music: 7.31.51  
-Photomath: 8.37.0  
 Pixiv: 6.131.0  
 Reddit: 2024.17.0  
 SoundCloud: 2024.12.10-release  
-SpotifyLite: 1.9.0.56456  
 TikTok: 36.5.4  
-Trakt: 1.1.1  
 Tumblr: 37.6.0.110  
 Twitter: 10.72.0-release.0  
 YouTube: 19.46.42  
