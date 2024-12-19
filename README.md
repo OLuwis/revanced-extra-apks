@@ -8,9 +8,11 @@ You can download its [latest release](https://github.com/OLuwis/revanced-extra-a
 
 Currently for higher accessibility and compatibility i've made a base release for ARMV7 based smartphone, but there are still plans for other architectures and other patches.
 
-### Obtainium
+### Using with Obtainium
 
-!IMPORTANT: IF YOU ARE GOING TO USE OBTAINIUM FOR TRACKING THE RELEASES AND APKS, PLEASE ACTIVATE THE VERIFICATION FOR ONLY INSTALLED APPS, THIS WAY YOU DONT SUFFER FROM RATE LIMIT. 👍
+Obtainium is an app that tracks updates for apps installed outside Google Play.
+
+!IMPORTANT: IF YOU ARE GOING TO USE OBTAINIUM FOR TRACKING THE RELEASES AND APKS, PLEASE ACTIVATE THE VERIFICATION FOR ONLY INSTALLED APPS, THIS WAY YOU DONT SUFFER FROM RATE LIMIT.
 
 1. Download Obtainium from their [Github](https://github.com/ImranR98/Obtainium) or [F-Droid](https://f-droid.org/pt_BR/packages/dev.imranr.obtainium.fdroid/).
 
