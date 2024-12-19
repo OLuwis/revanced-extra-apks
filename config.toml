@@ -25,7 +25,6 @@ uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
 enabled = true
-version = "latest"
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 #uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
@@ -37,12 +36,6 @@ enabled = true
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-
-[GooglePhotos]
-enabled = true
-#arch = "arm-v7a"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
@@ -65,12 +58,6 @@ arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 #uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
-[Photomath]
-enabled = true
-version = "8.37.0"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
-#uptodown-dlurl = "https://photomath.en.uptodown.com/android"
-
 [Pixiv]
 enabled = true
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
@@ -85,11 +72,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 #uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-
-[SpotifyLite]
-enabled = true
-version = "1.9.0.56456"
-uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [TikTok]
 enabled = true
