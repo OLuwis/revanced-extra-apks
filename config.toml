@@ -10,7 +10,8 @@ parallel-jobs = 1
 enabled = true
 version = "8.2.3"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+#uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/com.adobe.lrmobile-8.2.3-all"
 
 [Backdrops]
 enabled = true
