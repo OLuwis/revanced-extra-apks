@@ -14,8 +14,8 @@ uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [Backdrops]
 enabled = true
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+#apkmirror-dpi = "120-640dpi"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
@@ -33,14 +33,16 @@ exclusive-patches = true
 
 [Facebook]
 enabled = true
+version = "493.0.0.72.158"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
-arch = "arm-v7a"
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+version = "357.1.0.52.100"
+#arch = "arm-v7a"
+#apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Messenger]
