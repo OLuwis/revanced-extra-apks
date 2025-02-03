@@ -1,7 +1,8 @@
 AdobeLightroom: 8.2.3  
-Backdrops: 5.1.8  
+Backdrops: 4.52  
 Bandcamp: 3.1.4  
-Facebook: 498.0.0.54.74  
+Facebook: 493.0.0.72.158  
+Instagram: 357.1.0.52.100  
 Music: 7.29.52  
 Pixiv: 6.134.0  
 Reddit: 2024.17.0  
