@@ -23,7 +23,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/
 enabled = true
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/luwisrevanced-extra-apks"
+archive-dlurl = "https://archive.org/download/luwisrevanced-extra-apks/com.bandcamp.android-3.1.4-all.apk"
 
 [Duolingo]
 enabled = false
