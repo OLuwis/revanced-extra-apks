@@ -61,13 +61,13 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Pixiv]
-enabled = true
+enabled = false
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [Reddit]
-enabled = false
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+enabled = true
+#apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [SoundCloud]
