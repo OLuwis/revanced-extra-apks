@@ -47,7 +47,7 @@ version = "357.1.0.52.100"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Messenger]
-enabled = true
+enabled = false
 version = "489.0.0.44.326"
 #arch = "arm-v7a"
 #apkmirror-dpi = "360-480dpi"
@@ -55,7 +55,7 @@ version = "489.0.0.44.326"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Music]
-enabled = false
+enabled = true
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
