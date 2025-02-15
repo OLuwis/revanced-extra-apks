@@ -90,13 +90,13 @@ version = "35.3.0.110"
 uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitter]
-enabled = true
+enabled = false
 version = "10.49.0-release.0"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [YouTube]
-enabled = false
+enabled = true
 #apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
