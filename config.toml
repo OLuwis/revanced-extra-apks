@@ -48,6 +48,7 @@ uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Messenger]
 enabled = true
+version = "489.0.0.44.326"
 #arch = "arm-v7a"
 #apkmirror-dpi = "360-480dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
