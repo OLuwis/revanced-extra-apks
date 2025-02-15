@@ -91,6 +91,7 @@ uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitter]
 enabled = true
+version = "10.49.0-release.0"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
