@@ -98,5 +98,6 @@ uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [YouTube]
 enabled = true
+version = "20.07.33"
 #apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
