@@ -84,6 +84,7 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Tumblr]
 enabled = true
+version = "35.3.0.110"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
