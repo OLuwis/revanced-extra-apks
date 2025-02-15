@@ -77,15 +77,15 @@ version = "2024.06.25-release"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [TikTok]
-enabled = true
+enabled = false
 version = "38.7.2"
 #apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Tumblr]
-enabled = false
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+enabled = true
+#apkmirror-dpi = "120-640dpi"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
