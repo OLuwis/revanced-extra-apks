@@ -62,6 +62,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Pixiv]
 enabled = true
+version = "6.121.1"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
