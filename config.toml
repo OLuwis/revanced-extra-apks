@@ -7,19 +7,19 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [AdobeLightroom]
-enabled = false
+enabled = true
 version = "8.2.3"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [Backdrops]
-enabled = true
+enabled = false
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
-enabled = true
+enabled = false
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
