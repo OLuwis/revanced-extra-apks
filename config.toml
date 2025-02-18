@@ -24,7 +24,7 @@ enabled = false
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
-enabled = false
+enabled = true
 version = "5.158.3"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
@@ -33,7 +33,7 @@ included-patches = "'Disable ads'"
 exclusive-patches = true
 
 [Facebook]
-enabled = true
+enabled = false
 version = "486.0.0.66.70"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
