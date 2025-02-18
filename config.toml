@@ -41,6 +41,7 @@ uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
+version = "357.1.0.52.100"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
