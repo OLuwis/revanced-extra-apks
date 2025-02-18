@@ -34,7 +34,7 @@ exclusive-patches = true
 
 [Facebook]
 enabled = true
-version = "487.0.0.47.36"
+version = "486.0.0.66.70"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
