@@ -66,12 +66,12 @@ enabled = false
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [Reddit]
-enabled = false
+enabled = true
 #apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [SoundCloud]
-enabled = true
+enabled = false
 version = "2024.06.25-release"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
