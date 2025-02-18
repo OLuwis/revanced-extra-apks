@@ -1,4 +1,4 @@
-TikTok: 36.5.4  
+SoundCloud: 2024.06.25-release  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
