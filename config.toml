@@ -1,7 +1,7 @@
 enable-magisk-update = false # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-# add 'enabled = false' for not patching a specific app or remove it from the config
+# add 'enabled = true' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
@@ -13,18 +13,18 @@ version = "8.2.3"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [Backdrops]
-enabled = false
+enabled = true
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [Bandcamp]
-enabled = false
+enabled = true
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
 uptodown-dlurl = "https://bandcamp.en.uptodown.com/android"
 
 [Duolingo]
-enabled = false
+enabled = true
 version = "5.158.3"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
@@ -40,62 +40,62 @@ version = "486.0.0.66.70"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [Instagram]
-enabled = false
+enabled = true
 version = "357.1.0.52.100"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Messenger]
-enabled = false
+enabled = true
 arch = "arm-v7a"
 apkmirror-dpi = "360-480dpi"
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 #uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Music]
-enabled = false
+enabled = true
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 #uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Pixiv]
-enabled = false
+enabled = true
 version = "6.121.0"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [Reddit]
-enabled = false
+enabled = true
 #apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [SoundCloud]
-enabled = false
+enabled = true
 version = "2024.06.25-release"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [TikTok]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 #uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Tumblr]
-enabled = false
+enabled = true
 version = "35.3.0.110"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitter]
-enabled = false
+enabled = true
 version = "10.48.0-release.0"
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [YouTube]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 #uptodown-dlurl = "https://youtube.en.uptodown.com/android"
