@@ -55,13 +55,13 @@ version = "489.0.0.44.326"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Music]
-enabled = false
+enabled = true
 arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+#uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Pixiv]
-enabled = true
+enabled = false
 version = "6.121.0"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
