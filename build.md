@@ -1,4 +1,4 @@
-IconPack: 2.2 build 016  
+SpotifyLite: 1.9.0.56456  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
