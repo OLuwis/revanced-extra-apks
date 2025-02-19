@@ -6,12 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[AdobeLightroom]
-enabled = false
-version = "8.2.3"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
-
 [Backdrops]
 enabled = false
 #apkmirror-dpi = "120-640dpi"
@@ -45,6 +39,12 @@ version = "357.1.0.52.100"
 #arch = "arm-v7a"
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+
+[Lightroom]
+enabled = false
+version = "8.2.3"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [Messenger]
 enabled = false
@@ -90,7 +90,7 @@ uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitch]
 enabled = true
-version = "20.2.1"
+version = "16.9.1"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.br.uptodown.com/android"
 
