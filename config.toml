@@ -59,6 +59,12 @@ arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 #uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
+[Photos]
+enabled = true
+version = "7.17.0.725321504"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.br.uptodown.com/android"
+
 [Pixiv]
 enabled = false
 version = "6.121.0"
@@ -89,9 +95,9 @@ version = "35.3.0.110"
 uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitch]
-enabled = true
+enabled = false
 version = "19.1.0"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.br.uptodown.com/android"
 
 [Twitter]
