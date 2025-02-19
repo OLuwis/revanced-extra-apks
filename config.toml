@@ -33,6 +33,12 @@ version = "486.0.0.66.70"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
+[IconPack]
+enabled = true
+version = "2.2 build 016"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+uptodown-dlurl = "https://icon-pack-studio.br.uptodown.com/android"
+
 [Instagram]
 enabled = false
 version = "357.1.0.52.100"
@@ -60,7 +66,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 #uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [News]
-enabled = true
+enabled = false
 version = "5.107.0.640295430"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 uptodown-dlurl = "https://google-play-newsstand.br.uptodown.com/android"
