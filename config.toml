@@ -61,7 +61,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Photos]
 enabled = true
-version = "7.17.0.725321504"
+version = "7.11.0.705590205"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.br.uptodown.com/android"
 
