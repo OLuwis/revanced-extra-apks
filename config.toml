@@ -59,10 +59,16 @@ arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 #uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
-[Photos]
+[Photomath]
 enabled = true
+version = "8.37.0"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/photomath-8-37-0-release/"
+uptodown-dlurl = "https://photomath.br.uptodown.com/android"
+
+[Photos]
+enabled = false
 version = "7.11.0.705590205"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.br.uptodown.com/android"
 
 [Pixiv]
