@@ -34,7 +34,7 @@ version = "486.0.0.66.70"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 
 [IconPack]
-enabled = true
+enabled = false
 version = "2.2 build 016"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 uptodown-dlurl = "https://icon-pack-studio.br.uptodown.com/android"
@@ -99,6 +99,12 @@ enabled = false
 version = "2024.06.25-release"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+
+[SpotifyLite]
+enabled = true
+version = "1.9.0.56456"
+#apkmirror-dlurl = ""
+uptodown-dlurl = "https://spotify-lite.br.uptodown.com/android"
 
 [TikTok]
 enabled = false
