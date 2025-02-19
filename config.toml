@@ -102,7 +102,7 @@ uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [SpotifyLite]
 enabled = true
-version = "1.9.0.20753"
+version = "1.9.0.31697"
 #apkmirror-dlurl = ""
 uptodown-dlurl = "https://spotify-lite.br.uptodown.com/android"
 
