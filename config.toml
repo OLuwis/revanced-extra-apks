@@ -90,7 +90,7 @@ uptodown-dlurl = "https://tumblr.br.uptodown.com/android"
 
 [Twitch]
 enabled = true
-version = "19.9.0"
+version = "20.2.1"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.br.uptodown.com/android"
 
