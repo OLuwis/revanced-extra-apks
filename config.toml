@@ -108,7 +108,7 @@ uptodown-dlurl = "https://spotify-lite.br.uptodown.com/android"
 
 [TikTok]
 enabled = true
-arch = "both"
+arch = "arm-v7a"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 #uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
