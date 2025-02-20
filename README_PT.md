@@ -12,7 +12,7 @@ Atualmente, para maior acessibilidade e compatibilidade, foi criada uma versão 
 
 O Obtainium é um aplicativo que rastreia atualizações para apps instalados fora da Google Play.
 
-IMPORTANTE: SE VOCÊ FOR USAR O OBTAINIUM PARA RASTREAR OS LANÇAMENTOS E OS APKS, POR FAVOR, ATIVE A VERIFICAÇÃO APENAS PARA APPS INSTALADOS. ASSIM, VOCÊ EVITA PROBLEMAS COM LIMITAÇÃO DE TAXA.
+Obs: Caso for utilizar o Obtainium para seguir os lançamentos e apks, ative "Verificação apenas para apps instalados" nas configurações, assim você evita problemas com limite de taxa.
 
 1. Baixe o Obtainium no [Github](https://github.com/ImranR98/Obtainium) ou [F-Droid](https://f-droid.org/pt_BR/packages/dev.imranr.obtainium.fdroid/).
 
