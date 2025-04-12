@@ -6,7 +6,6 @@ Messenger: 439.0.0.29.119
 Music: 8.05.51  
 News: 5.107.0.640295430  
 Photomath: 8.37.0  
-Photos: 7.11.0.705590205  
 Pixiv: 6.121.0  
 Reddit: 2024.17.0  
 SoundCloud: 2024.06.25-release  
@@ -23,5 +22,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.18.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.18.0)  
+Patches: ReVanced/patches-5.19.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.19.0)  
