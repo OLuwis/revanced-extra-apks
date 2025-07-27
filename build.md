@@ -2,7 +2,7 @@ Bandcamp: 3.2.2
 IconPack: 2.2 build 016  
 Instagram: 357.1.0.52.100  
 Lightroom: 8.2.3  
-Music: 8.05.51  
+Music: 8.29.56  
 News: 5.107.0.640295430  
 Photomath: 8.37.0  
 Pixiv: 6.121.0  
@@ -19,5 +19,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.31.2.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.31.2)  
+Patches: ReVanced/patches-5.32.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.32.0)  
