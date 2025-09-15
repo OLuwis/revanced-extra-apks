@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Backdrops]
-enabled = true
+enabled = false
 #apkmirror-dpi = "120-640dpi"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
